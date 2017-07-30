@@ -14,6 +14,8 @@
 		CA4429241F2E75AF00E65CF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA4429221F2E75AF00E65CF3 /* LaunchScreen.storyboard */; };
 		CA44292F1F2E75AF00E65CF3 /* firstTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA44292E1F2E75AF00E65CF3 /* firstTests.swift */; };
 		CA44293A1F2E75AF00E65CF3 /* firstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4429391F2E75AF00E65CF3 /* firstUITests.swift */; };
+		CA4429491F2E83D700E65CF3 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = CA4429471F2E83D700E65CF3 /* background.png */; };
+		CA44294A1F2E83D700E65CF3 /* Hey-Brandon.png in Resources */ = {isa = PBXBuildFile; fileRef = CA4429481F2E83D700E65CF3 /* Hey-Brandon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		CA4429351F2E75AF00E65CF3 /* firstUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = firstUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA4429391F2E75AF00E65CF3 /* firstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstUITests.swift; sourceTree = "<group>"; };
 		CA44293B1F2E75AF00E65CF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA4429471F2E83D700E65CF3 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = Assets.xcassets/background.png; sourceTree = "<group>"; };
+		CA4429481F2E83D700E65CF3 /* Hey-Brandon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Hey-Brandon.png"; path = "Assets.xcassets/Hey-Brandon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 				CA44291B1F2E75AF00E65CF3 /* ViewController.swift */,
 				CA44291D1F2E75AF00E65CF3 /* Main.storyboard */,
 				CA4429201F2E75AF00E65CF3 /* Assets.xcassets */,
+				CA4429471F2E83D700E65CF3 /* background.png */,
+				CA4429481F2E83D700E65CF3 /* Hey-Brandon.png */,
 				CA4429221F2E75AF00E65CF3 /* LaunchScreen.storyboard */,
 				CA4429251F2E75AF00E65CF3 /* Info.plist */,
 			);
@@ -233,6 +239,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA4429241F2E75AF00E65CF3 /* LaunchScreen.storyboard in Resources */,
+				CA4429491F2E83D700E65CF3 /* background.png in Resources */,
+				CA44294A1F2E83D700E65CF3 /* Hey-Brandon.png in Resources */,
 				CA4429211F2E75AF00E65CF3 /* Assets.xcassets in Resources */,
 				CA44291F1F2E75AF00E65CF3 /* Main.storyboard in Resources */,
 			);
